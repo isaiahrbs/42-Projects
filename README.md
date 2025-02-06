@@ -1,12 +1,24 @@
-# All 42 projects
+# My 42 Projects
 
-libft: My implementation of a custom C library with essential functions.
+Here are my 42 projects with clickable images:
 
-get_next_line: A function that reads a line from a file descriptor.
+## 1. Minishell
+Currently working on it..
 
-ft_printf: A custom implementation of the printf function in C.
+## 2. Push_Swap
+[![Minishell](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/Push_Swap.jpg)](https://github.com/IsaiahRobinsonGit/Push_Swap)
 
-push_swap: A sorting project that uses stacks and an efficient sorting algorithm.
+## 3. Minitalk
+[![Push_Swap](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/Minitalk.jpg)](https://github.com/IsaiahRobinsonGit/Minitalk)
 
-so_long: A 2D game project, where the player navigates a map to collect items and reach an exit.
+## 4. So_Long
+[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/So-Long.jpg)](https://github.com/IsaiahRobinsonGit/so_long)
 
+## 5. Libft
+[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/libft.jpg)](https://github.com/IsaiahRobinsonGit/Libft)
+
+## 6. ft_printf
+[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/ft_printf.jpg)](NO LINK YET)
+
+## 7. Get Next Line
+[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/GNL.jpg)](https://github.com/IsaiahRobinsonGit/Get-Next-Line)
