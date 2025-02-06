@@ -1,7 +1,5 @@
 # My 42 Projects
 
-Here are my 42 projects with clickable images:
-
 ## 1. Minishell
 Currently working on it..
 
