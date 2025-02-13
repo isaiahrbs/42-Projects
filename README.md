@@ -16,7 +16,7 @@ Currently working on it..
 [![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/libft.jpg)](https://github.com/IsaiahRobinsonGit/Libft)
 
 ## 6. ft_printf
-[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/ft_printf.jpg)](NO LINK YET)
+[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/ft_printf.jpg)](https://github.com/IsaiahRobinsonGit/ft_printf/tree/main)
 
 ## 7. Get Next Line
 [![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/GNL.jpg)](https://github.com/IsaiahRobinsonGit/Get-Next-Line)
