@@ -4,19 +4,19 @@
 Currently working on it..
 
 ## 2. Push_Swap
-[![Minishell](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/Push_Swap.jpg)](https://github.com/IsaiahRobinsonGit/Push_Swap)
+[push_Swap](https://github.com/IsaiahRobinsonGit/Push_Swap)
 
 ## 3. Minitalk
-[![Push_Swap](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/Minitalk.jpg)](https://github.com/IsaiahRobinsonGit/Minitalk)
+[minitalk](https://github.com/IsaiahRobinsonGit/Minitalk)
 
 ## 4. So_Long
-[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/So-Long.jpg)](https://github.com/IsaiahRobinsonGit/so_long)
+[so_Long](https://github.com/IsaiahRobinsonGit/so_long)
 
 ## 5. Libft
-[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/libft.jpg)](https://github.com/IsaiahRobinsonGit/Libft)
+[libft](https://github.com/IsaiahRobinsonGit/Libft)
 
 ## 6. ft_printf
-[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/ft_printf.jpg)](https://github.com/IsaiahRobinsonGit/ft_printf/tree/main)
+[ft_printf](https://github.com/IsaiahRobinsonGit/ft_printf/tree/main)
 
 ## 7. Get Next Line
-[![So_Long](https://github.com/IsaiahRobinsonGit/images/blob/main/Projects_Images/GNL.jpg)](https://github.com/IsaiahRobinsonGit/Get-Next-Line)
+[GNL](https://github.com/IsaiahRobinsonGit/Get-Next-Line)
