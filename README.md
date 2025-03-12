@@ -1,22 +1,15 @@
 # My 42 Projects
 
-## 1. Minishell
-Currently working on it..
+Repository of all my 42 projects
 
-## 2. Push_Swap
-[push_Swap](https://github.com/IsaiahRobinsonGit/Push_Swap)
+- [Push_Swap](https://github.com/IsaiahRobinsonGit/Push_Swap) - A sorting algorithm project using stacks.
 
-## 3. Minitalk
-[minitalk](https://github.com/IsaiahRobinsonGit/Minitalk)
+- [Minitalk](https://github.com/IsaiahRobinsonGit/Minitalk) - A simple communication protocol using signals.
 
-## 4. So_Long
-[so_Long](https://github.com/IsaiahRobinsonGit/so_long)
+- [So_Long](https://github.com/IsaiahRobinsonGit/so_long) - A 2D game project with movement and map navigation.
 
-## 5. Libft
-[libft](https://github.com/IsaiahRobinsonGit/Libft)
+- [Libft](https://github.com/IsaiahRobinsonGit/Libft) - A custom library implementing various C functions.
 
-## 6. ft_printf
-[ft_printf](https://github.com/IsaiahRobinsonGit/ft_printf/tree/main)
+- [ft_printf](https://github.com/IsaiahRobinsonGit/ft_printf/tree/main) - A custom implementation of the `printf` function.
 
-## 7. Get Next Line
-[GNL](https://github.com/IsaiahRobinsonGit/Get-Next-Line)
+- [Get_Next_Line](https://github.com/IsaiahRobinsonGit/Get-Next-Line) - A function to read a line from a file descriptor.
