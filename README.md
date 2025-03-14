@@ -2,6 +2,8 @@
 
 Repository of all my 42 projects
 
+- Working on Minishell~
+
 - [Push_Swap](https://github.com/IsaiahRobinsonGit/Push_Swap) - A sorting algorithm project using stacks.
 
 - [Minitalk](https://github.com/IsaiahRobinsonGit/Minitalk) - A simple communication protocol using signals.
