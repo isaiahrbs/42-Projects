@@ -2,7 +2,9 @@
 
 Repository of all my 42 projects
 
-- Working on Minishell~
+- Working on Philosophers~
+
+- [Minishell](https://github.com/isaiahrbs/Minishell) - A lightweight command-line interpreter that mimics core shell functionality.
 
 - [Push_Swap](https://github.com/IsaiahRobinsonGit/Push_Swap) - A sorting algorithm project using stacks.
 
