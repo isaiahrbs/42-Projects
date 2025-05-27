@@ -6,14 +6,17 @@ Repository of all my 42 projects
 
 - [Minishell](https://github.com/isaiahrbs/Minishell) - A lightweight command-line interpreter that mimics core shell functionality.
 
-- [Push_Swap](https://github.com/IsaiahRobinsonGit/Push_Swap) - A sorting algorithm project using stacks.
+- [Philosophers](https://github.com/isaiahrbs/Philosophers) - a multithreading simulation where philosophers eat, think, and sleep while sharing forks, requiring careful synchronization to avoid deadlocks and starvation.
 
-- [Minitalk](https://github.com/IsaiahRobinsonGit/Minitalk) - A simple communication protocol using signals.
+- [Push_Swap](https://github.com/isaiahrbs/Push_Swap) - A sorting algorithm project using stacks.
 
-- [So_Long](https://github.com/IsaiahRobinsonGit/so_long) - A 2D game project with movement and map navigation.
+- [Minitalk](https://github.com/isaiahrbs/Minitalk) - A simple communication protocol using signals.
 
-- [Libft](https://github.com/IsaiahRobinsonGit/Libft) - A custom library implementing various C functions.
+- [So_Long](https://github.com/isaiahrbs/so_long) - A 2D game project with movement and map navigation.
 
-- [ft_printf](https://github.com/IsaiahRobinsonGit/ft_printf/tree/main) - A custom implementation of the `printf` function.
+- [Libft](https://github.com/isaiahrbs/Libft) - A custom library implementing various C functions.
 
-- [Get_Next_Line](https://github.com/IsaiahRobinsonGit/Get-Next-Line) - A function to read a line from a file descriptor.
+- [ft_printf](https://github.com/isaiahrbs/ft_printf/tree/main) - A custom implementation of the `printf` function.
+
+- [Get_Next_Line](https://github.com/isaiahrbs/Get-Next-Line) - A function to read a line from a file descriptor.
+
