@@ -2,7 +2,7 @@
 
 Repository of all my 42 projects
 
-- Working on Philosophers~
+- Working on Cub3d~
 
 - [Minishell](https://github.com/isaiahrbs/Minishell) - A lightweight command-line interpreter that mimics core shell functionality.
 
